@@ -1,5 +1,5 @@
 #pracazklasami.py
 
-from Klasy import paletka as pk
+from Klasa import pierwszaklasa as pk
 
 pk.testklasy()
